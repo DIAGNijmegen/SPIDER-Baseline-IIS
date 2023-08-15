@@ -6,6 +6,10 @@ N. Lessmann et al.,
 "Iterative fully convolutional neural networks for automatic vertebra segmentation and identification",
 Medical Image Analysis 53 (2019), pp. 142-155, https://doi.org/10.1016/j.media.2019.02.005
 
+## Install Dependencies
+Make sure you have the required dependencies installed. This includes the TIGER library. 
+To install the latest version, open a command prompt an run: `pip install git+https://github.com/DIAGNijmegen/Tiger.git@stable`
+
 ## Running scripts
 
 The `devel/` folder contains the main codebase. Scripts that can be executed are indicated by a name starting with a capital letter.
